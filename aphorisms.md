@@ -120,9 +120,10 @@
    1. Compound interest
    1. Time zones
    1. The utter vastness of the world.<br><br>
-1. You feel like you’re moving fast when the wind is blowing in your face; you are moving faster, when the wind is blowing against your back.<br><br>
-1. Fix the bug you know about before debugging the problem whose cause is unknown.<br><br>
-1. The journeyman knows how to follow the rules<br>
+1. You feel like you’re moving fast when the wind is blowing in your face;<br>
+   you are moving faster when the wind is blowing against your back.<br><br>
+3. Fix the bug you know about before debugging the problem whose cause is unknown.<br><br>
+4. The journeyman knows how to follow the rules<br>
    The master knows how to break the rules<br>
    The genius knows how to make the rules<br>
    (The novice says rules are for other people.)<br><br>
