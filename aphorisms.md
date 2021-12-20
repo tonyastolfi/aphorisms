@@ -56,7 +56,7 @@
 1. Work to understand your intuitions. <br><br>
 1. The ocean has a finite boiling point. <br><br>
 1. If it were obvious then everyone would be doing it. <br><br>
-1. Events with probability (P) greater than zero happen at time (t) less than infinity. 
+1. Events with probability (P) greater than zero happen at time (t) less than infinity.<br><br>
 1. Let other people say no to you. <br><br>
 1. Information has inertia; knowledge is heavy. <br><br>
 1. First we commit by asking: why not?  When that stops working, we commit by asking: why?<br><br>
