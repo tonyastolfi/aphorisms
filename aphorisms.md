@@ -2,7 +2,7 @@
 1. First we don’t know what we don’t know<br>
    Then we know what we don’t know<br>
    Eventually we don’t know what we know<br>
-   Finally we know what we know<br>
+   Finally we know what we know<br><br>
 1. First things are obvious<br>
    Then they are complicated<br>
    Eventually they are complex<br>
