@@ -140,3 +140,4 @@
 1. Know the limits of your precision.  Trying to exceed them in practice will only make matters worse.<br><br>
 2. Good practice is by definition good theory.<br><br>
 3. Capability is not immutable.<br><br>
+4. Negotiate with people; don't negotiate with Nature.<br><br>
