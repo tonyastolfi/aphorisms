@@ -100,7 +100,7 @@
 1. Cherry pie is not modular.  (Hint: cutting it into slices does not help.)<br><br>
 1. One line changes can be the downfall of civilizations.<br><br>
 1. Your best ideas don’t go walking around thinking about what a big deal you are.<br><br>
-1. Buying spends wealth.<br><br>
+1. Buying spends wealth.<br>
    Building creates wealth.<br><br>
 1. Most people want to become a millionaire so they can spend a million dollars; in other words what they really want is to un-become a millionaire.<br><br>
 1. Fail now; decide later.<br>
@@ -136,4 +136,7 @@
 1. The average of many good ideas may be a bad idea.<br><br>
 1. If something can’t go on forever, it won’t.<br><br>
 1. The ox feels the yoke, but does the bird feel the weight of its wings?<br><br>
-1. Possibilities seem likely to us to the extent we can imagine them.
+1. Possibilities seem likely to us to the extent we can imagine them.<br><br>
+1. Know the limits of your precision.  Trying to exceed them in practice will only make matters worse.<br><br>
+2. Good practice is by definition good theory.<br><br>
+3. Capability is not immutable.<br><br>
