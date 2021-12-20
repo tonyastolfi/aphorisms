@@ -105,10 +105,12 @@
 1. Most people want to become a millionaire so they can spend a million dollars; in other words what they really want is to un-become a millionaire.<br><br>
 1. Fail now; decide later.<br>
    (Corollary: decide now; fail later.)<br><br>
-1. Strive for loose coupling and high cohesion.  Otherwise, do the simplest thing that could possibly work.  When all else fails, generalize.<br><br>
-1. Belief and reality are orthogonal.<br><br>
-1. Defense grows exponentially with depth.<br><br>
-1. The bubbles prove it can be smaller.<br>
+1. Strive for loose coupling and high cohesion.  <br>
+   Otherwise, do the simplest thing that could possibly work.  <br>
+   When all else fails, generalize.<br><br>
+3. Belief and reality are orthogonal.<br><br>
+4. Defense grows exponentially with depth.<br><br>
+5. The bubbles prove it can be smaller.<br>
    The proof is in the bubbles.<br><br>
 1. QA is like squeezing a lemon.<br><br>
 1. Don’t over rely on visible metrics.<br><br>
