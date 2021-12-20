@@ -136,4 +136,4 @@
 1. The average of many good ideas may be a bad idea.<br><br>
 1. If something can’t go on forever, it won’t.<br><br>
 1. The ox feels the yoke, but does the bird feel the weight of its wings?<br><br>
-
+1. Possibilities seem likely to us to the extent we can imagine them.
