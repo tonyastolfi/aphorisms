@@ -1,11 +1,11 @@
 1. The possible critiques the present.<br><br> 
-1. First we don’t know what we don’t know<br><br>
-   Then we know what we don’t know<br><br>
-   Eventually we don’t know what we know<br><br>
-   Finally we know what we know<br><br>
-1. First things are obvious<br><br>
-   Then they are complicated<br><br>
-   Eventually they are complex<br><br>
+1. First we don’t know what we don’t know<br>
+   Then we know what we don’t know<br>
+   Eventually we don’t know what we know<br>
+   Finally we know what we know<br>
+1. First things are obvious<br>
+   Then they are complicated<br>
+   Eventually they are complex<br>
    Finally they become simple<br><br>
 1. Working code changes the conversation.<br><br>
 1. Listen but don’t obey.<br><br>
