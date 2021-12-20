@@ -1,94 +1,56 @@
 1. The possible critiques the present. 
-1. First we don’t know what we don’t know
-   Then we know what we don’t know
-   Eventually we don’t know what we know
+1. First we don’t know what we don’t know<br>
+   Then we know what we don’t know<br>
+   Eventually we don’t know what we know<br>
    Finally we know what we know
-
-First things are obvious
-Then they are complicated
-Eventually they are complex
-Finally they become simple
-
-Working code changes the conversation.
-
-Listen but don’t obey.
-
-Those who say it cannot be done should not interrupt those who are doing it.
-
-There are two ways to design something: 
-Make it so simple that it has no obvious defects. 
-Make it so complicated that it has no obvious defects.
-
-We aren’t limited by typing speed.
-
-The best thing to do with a problem is not to solve it, but to dissolve it (by designing its possibility out of existence) 
-
-Measuring gives you a leg up on the experts.
-
-For every expert, there is an equal and opposite expert. 
-
-The only code faster than the fastest code is no code.
-
-Don’t turn off the stove to boil water.
-
-Each part does the work of that part and no other.
-
-Quality is the intersection of necessity and sufficiency.
-
-Naysaying is a safe heuristic.
-
-Don’t employ proof by lack of imagination.
-
-(Eitan’s Law)  There’s no upper bound on screwing things up.
-
-I am not my work; I am how I respond in this moment.
-
-If your goal is to be on the side of the truth then you can only be wrong for the brief instant it takes to realize that you were wrong.
-
-Complexity must be divided to be conquered.
-
-Genius transforms the unthinkable into the assumed.
-
-The fast follow is a lie.  (Corollary: there is nothing more permanent than a temporary solution.)
-
-Reuse is coupling.
-
-Simplicity is a feature.
-
-What is the cheapest thing we can do to eliminate our riskiest unknown?
-
-You are, without a doubt, one of us.
-
-It needs to be smaller.
-But Steve, we have already moved heaven and earth in acts of heroic engineering to make it this small; it can not be made smaller.
-(Throws the prototype into the fish tank.)  What are those?
-Bubbles.
-Make it smaller.
-
-Intuition is a valuable starting point.
-
-There is no upper bound on fucking things up.
-
-This is not the bug that brings me down.
-
-Don’t ask: why is this necessary?  Ask instead: how else?  And then ask: why this and not that?
-
-Sometimes transparency is needed; other times, opacity is needed.
-
-Don’t argue about facts.  (Hint: collect them)
-
-Complex is not the same as complicated.
-
-Complexity is necessary. 
-Complication is unnecessary. 
-Over-simplifying is insufficient. 
-Simplicity is sufficient. 
-
-Importance and urgency are orthogonal. 
-
-Goodness and obviousness are orthogonal. 
-
-We move from simplistic to complicated to complex to simple. 
+1. First things are obvious<br>
+   Then they are complicated<br>
+   Eventually they are complex<br>
+   Finally they become simple
+1. Working code changes the conversation.
+1. Listen but don’t obey.
+1. Those who say it cannot be done should not interrupt those who are doing it.
+1. There are two ways to design something: 
+   1. Make it so simple that it has no obvious defects. 
+   2. Make it so complicated that it has no obvious defects.
+1. We aren’t limited by typing speed.
+1. The best thing to do with a problem is not to solve it, but to dissolve it (by designing its possibility out of existence) 
+1. Measuring gives you a leg up on the experts.
+1. For every expert, there is an equal and opposite expert. 
+1. The only code faster than the fastest code is no code.
+1. Don’t turn off the stove to boil water.
+1. Each part does the work of that part and no other.
+1. Quality is the intersection of necessity and sufficiency.
+1. Naysaying is a safe heuristic.
+1. Don’t employ proof by lack of imagination.
+1. (Eitan’s Law)  There’s no upper bound on screwing things up.
+1. I am not my work; I am how I respond in this moment.
+1. If your goal is to be on the side of the truth then you can only be wrong for the brief instant it takes to realize that you were wrong.
+1. Complexity must be divided to be conquered.
+1. Genius transforms the unthinkable into the assumed.
+1. The fast follow is a lie.  (Corollary: there is nothing more permanent than a temporary solution.)
+1. Reuse is coupling.
+1. Simplicity is a feature.
+1. What is the cheapest thing we can do to eliminate our riskiest unknown?
+1. You are, without a doubt, one of us.
+1. _It needs to be smaller._<br>
+   But Steve, we have already moved heaven and earth in acts of heroic engineering to make it this small; it can not be made smaller.<br>
+   _(Throws the prototype into the fish tank.)  What are those?_<br>
+   Bubbles.<br>
+   _Make it smaller._<br>
+1. Intuition is a valuable starting point.
+1. This is not the bug that brings me down.
+1. Don’t ask: why is this necessary?  Ask instead: how else?  And then ask: why this and not that?
+1. Sometimes transparency is needed; other times, opacity is needed.
+1. Don’t argue about facts.  (Hint: collect them)
+1. Complex is not the same as complicated.
+1. Complexity is necessary.<br>
+   Complication is unnecessary.<br>
+   Over-simplifying is insufficient.<br>
+   Simplicity is sufficient. <br>
+1. Importance and urgency are orthogonal. 
+1. Goodness and obviousness are orthogonal. 
+1. We move from simplistic to complicated to complex to simple. 
 
 What’s the worst they can do, fire me?
 What’s the worst they can do, disapprove of me?
