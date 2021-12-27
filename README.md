@@ -144,3 +144,4 @@
 2. Good practice is by definition good theory.<br><br>
 3. Capability is not immutable.<br><br>
 4. Negotiate with people; don't negotiate with Nature.<br><br>
+5. Every outcome is an opportunity; every opportunity arises from past outcomes.  
