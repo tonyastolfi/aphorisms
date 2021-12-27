@@ -146,3 +146,4 @@
 4. Negotiate with people; don't negotiate with Nature.<br><br>
 5. Every outcome is an opportunity; every opportunity arises from past outcomes.  <br><br>
 6. The Ego invents; the Soul discovers.  <br><br>
+7. Conclusions are suspect when quantities have been rounded off to zero/infinity.  
