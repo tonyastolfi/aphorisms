@@ -146,4 +146,6 @@
 4. Negotiate with people; don't negotiate with Nature.<br><br>
 5. Every outcome is an opportunity; every opportunity arises from past outcomes.  <br><br>
 6. The Ego invents; the Soul discovers.  <br><br>
-7. Conclusions are suspect when quantities have been rounded off to zero/infinity.  
+7. Conclusions are suspect when quantities have been rounded off to zero/infinity. <br><br>
+8. Seasons are cyclic; years are a story that unfolds.  <br><br>
+9. Fashion is the domain where the perception of a quality is the possession of that quality. <br><br> 
