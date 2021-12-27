@@ -85,7 +85,7 @@
 1. Sometimes moving forward feels like moving forward.<br>
    And sometimes it feels like moving backward.<br>
    And sometimes it feels like standing still.<br><br>
-1. Moving forward can feel like moving forward, moving backward, or standing still.<br><br>
+   (alt: Moving forward can feel like moving forward, moving backward, or standing still.)<br><br>
 1. Let other people disagree with you.<br><br>
 1. You’re not the only one who sees it.<br><br>
 1. Make decisions close to the right information.<br><br>
@@ -144,5 +144,5 @@
 2. Good practice is by definition good theory.<br><br>
 3. Capability is not immutable.<br><br>
 4. Negotiate with people; don't negotiate with Nature.<br><br>
-5. Every outcome is an opportunity; every CD opportunity arises from past outcomes.  <br><br>
+5. Every outcome is an opportunity; every opportunity arises from past outcomes.  <br><br>
 6. The Ego invents; the Soul discovers.  <br><br>
