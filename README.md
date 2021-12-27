@@ -38,6 +38,8 @@
    _(Throws the prototype into the fish tank.)  What are those?_<br>
    Bubbles.<br>
    _Make it smaller._<br><br>
+   The bubbles prove it can be smaller.<br>
+   The proof is in the bubbles.<br><br>
 1. Intuition is a valuable starting point.<br><br>
 1. This is not the bug that brings me down.<br><br>
 1. Don’t ask: why is this necessary?  Ask instead: how else?  And then ask: why this and not that?<br><br>
@@ -110,8 +112,6 @@
    When all else fails, generalize.<br><br>
 3. Belief and reality are orthogonal.<br><br>
 4. Defense grows exponentially with depth.<br><br>
-5. The bubbles prove it can be smaller.<br>
-   The proof is in the bubbles.<br><br>
 1. QA is like squeezing a lemon.<br><br>
 1. Don’t over rely on visible metrics.<br><br>
 1. We don’t fully understand what we can’t explain. Yet we understand more than we are capable of explaining.<br><br>
