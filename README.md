@@ -9,7 +9,7 @@
    Finally they become simple<br><br>
 1. Working code changes the conversation.<br><br>
 1. Listen but don’t obey.<br><br>
-1. Those who say it cannot be done should not interrupt those who are doing it.<br><br>
+1. Those who say it cannot be done should not obstruct those who are doing it.<br><br>
 1. There are two ways to design something:<br>
    1. Make it so simple that it has no obvious defects.<br>
    2. Make it so complicated that it has no obvious defects.<br><br>
