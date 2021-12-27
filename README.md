@@ -49,7 +49,7 @@
    Over-simplifying is insufficient.<br>
    Simplicity is sufficient. <br><br>
 1. Importance and urgency are orthogonal. <br><br>
-1. Goodness and obviousness are orthogonal. <br><br>
+1. Goodness and obviousness are orthogonal.  (So are badness and obviousness.) <br><br>
 1. We move from simplistic to complicated to complex to simple. <br><br>
 1. What’s the worst they can do, fire me?<br>
    _(variant)_ What’s the worst they can do, disapprove of me?<br><br>
