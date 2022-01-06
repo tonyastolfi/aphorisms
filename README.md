@@ -62,10 +62,11 @@
 1. Let other people say no to you. <br><br>
 1. Information has inertia; knowledge is heavy. <br><br>
 1. First we commit by asking: why not?  When that stops working, we commit by asking: why?<br><br>
-1. Every yes implies a no to the alternatives. <br><br>
-1. Say no in order to say yes. <br><br>
-1. The compiler doesn’t care about your feelings.<br><br>
-1. Always question: 
+1. Every yes implies a no to the alternatives. <br>
+   Say no in order to say yes. <br><br>
+1. The eye doesn't see what the mind doesn't know.<br><br>
+3. The compiler doesn’t care about your feelings.<br><br>
+4. Always question: 
    1. Urgency
    1. Authority
    1. Necessity
@@ -76,15 +77,15 @@
    1. Price
    1. Importance
    1. Unimportance<br><br>
-1. Naming something makes it real.<br><br>
-1. The world is complex.<br><br>
-1. The contents of our minds in increasing scarcity/value: 
+5. Naming something makes it real.<br><br>
+6. The world is complex.<br><br>
+7. The contents of our minds in increasing scarcity/value: 
    - data 
    - information
    - knowledge
    - understanding
    - wisdom<br><br>
-1. Sometimes moving forward feels like moving forward.<br>
+8. Sometimes moving forward feels like moving forward.<br>
    And sometimes it feels like moving backward.<br>
    And sometimes it feels like standing still.<br><br>
    (alt: Moving forward can feel like moving forward, moving backward, or standing still.)<br><br>
