@@ -155,3 +155,4 @@
 2. When your purpose is wrong and you do "better," you become more wrong.<br><br>
 3. If you want to know how things really work, study them while they're coming apart.<br><br>
 4. The eye doesn't see what the mind doesn't know<br><br>
+1. Never criticize someone for knowing things; knowledge is not a zero sum.<br><br>
