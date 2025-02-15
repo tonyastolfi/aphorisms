@@ -149,4 +149,9 @@
 6. The Ego invents; the Soul discovers.  <br><br>
 7. Conclusions are suspect when quantities have been rounded off to zero/infinity. <br><br>
 8. Seasons are cyclic; years are a story that unfolds.  <br><br>
-9. Fashion is the domain where the perception of a quality is the possession of that quality. <br><br> 
+9. Fashion is the domain where the perception of a quality is the possession of that quality. <br><br>
+1. The purpose of a system is what it does. <br><br>
+1. Tenacity is like a boat that can't be throttled back; obstinance is like a boat with no rudder.<br><br>
+2. When your purpose is wrong and you do "better," you become more wrong.<br><br>
+3. If you want to know how things really work, study them while they're coming apart.<br><br>
+4. The eye doesn't see what the mind doesn't know<br><br>
